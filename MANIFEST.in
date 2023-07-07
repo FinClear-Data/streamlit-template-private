@@ -1,0 +1,2 @@
+include streamlit_template_private/data/*
+include streamlit_template_private/images/*
